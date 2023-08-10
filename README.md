@@ -3,8 +3,6 @@ abhishek satasiya
 
 A new Flutter project.
 
-<img align = "left" src="https://user-images.githubusercontent.com/126376629/236149363-0492ab12-e7bf-4b40-8fc0-020db7990bd2.png" width="220px">
-<img align = "left" src="https://user-images.githubusercontent.com/126376629/236149379-aeccf17a-2749-433a-9f58-3abe2c0adf44.png" width="220px">
 <img  src="https://user-images.githubusercontent.com/126376629/236149381-3a7026f5-39d0-455a-a1ea-fc04bfea23d6.png" width="220px">
 
 <img align = "left" src="https://user-images.githubusercontent.com/126376629/236149386-991bfd0c-25ac-471b-9d2a-11550b1fcb8c.png" width="220px">
@@ -41,10 +39,6 @@ A new Flutter project.
 <img align = "left" src="https://user-images.githubusercontent.com/126376629/236149665-bfde3069-7ff4-4311-a941-2cb4b8cfa72d.png" width="220px">
 <img align = "left" src="https://user-images.githubusercontent.com/126376629/236149673-c3b6d6f8-7048-4246-b557-0c24aecf8745.png" width="220px">
 <img  src="https://user-images.githubusercontent.com/126376629/236149356-8b71779b-adb2-4a62-b3f1-19851beee1bc.png" width="220px">
-
-<img align = "left" src="https://user-images.githubusercontent.com/126376629/236149361-c9b3341e-555e-4967-af83-bd64ae9abd98.png" width="220px">
-<img src="https://user-images.githubusercontent.com/126376629/236149373-e47421d7-e4e4-4790-862f-d99309bdb861.png" width="220px">
-
 
 
 
