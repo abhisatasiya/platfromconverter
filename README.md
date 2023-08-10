@@ -37,9 +37,6 @@ A new Flutter project.
 
 
 <img align = "left" src="https://user-images.githubusercontent.com/126376629/236149665-bfde3069-7ff4-4311-a941-2cb4b8cfa72d.png" width="220px">
-<img align = "left" src="https://user-images.githubusercontent.com/126376629/236149673-c3b6d6f8-7048-4246-b557-0c24aecf8745.png" width="220px">
-<img  src="https://user-images.githubusercontent.com/126376629/236149356-8b71779b-adb2-4a62-b3f1-19851beee1bc.png" width="220px">
-
 
 
 
